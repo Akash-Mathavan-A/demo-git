@@ -1,0 +1,2 @@
+Java is Programming Language. 
+Not Fully Object Oriented Language. Because we are using primitive data types also.
