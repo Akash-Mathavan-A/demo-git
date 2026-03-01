@@ -1,3 +1,4 @@
-Python Hello World Program
+Python is one of the easy programming language.
+Python uses in many domains.Python Hello World Program
 
 print("Hello World")
